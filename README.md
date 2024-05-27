@@ -1,1 +1,1 @@
-# st-galaxy
+# js-galaxy
